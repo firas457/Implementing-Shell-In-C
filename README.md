@@ -1,4 +1,4 @@
-# operating_systems_1
+# operating_systems_Linux_Shell
 
 Implementing a shell in C that supports Client- Server Implemention.
 
