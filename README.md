@@ -1,6 +1,6 @@
 # Operating_Systems_Linux_Shell
 
-Implementing a shell in C that supports Client- Server Implemention.
+Implementing a shell in C that supports Client- Server -TCP Protocol Implemention.
 
 The Shell contains an implementation of the commands:<br/> <br/>
 --> CD:  change Directory<br/><br/>
