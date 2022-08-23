@@ -2,9 +2,9 @@
 
 Implementing a shell in C that supports Client- Server Implemention.
 
-The Shell contains an implementation of the commands:
--CD: change Directory 
- -getcwd: prints the current working Dir 
+The Shell contains an implementation of the commands:/n
+-CD: change Directory /n
+ -getcwd: prints the current working Dir /n 
  -ECHO: prints the output after ECHO to the standard output ,  
 -DELETE FILENAME: to delete specific file, 
 -COPY SRC DST : copy file from source to destintion
